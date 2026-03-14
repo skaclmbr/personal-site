@@ -1,11 +1,9 @@
 ---
 title: Items of Note
 subtitle: and other randomness
-css: /css/skaclmbr.css
-ext-css:
-  -href:"https://use.fontawesome.com/releases/v5.6.1/css/all.css"
-  sri:"sha384-gfdkjb5BdAXd+lj+gudLWI+BXq4IuLW5IT+brZEZsLFm++aCMlF1V92rMkPaX4PP"
-  -
+layout: page
+icon: fas fa-lightbulb
+order: 6
 ---
 
 <div class="logo-div">

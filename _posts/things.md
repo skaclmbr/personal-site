@@ -2,14 +2,9 @@
 layout: post
 published: false
 title: things
+published: False
 ---
----
-title:Things
-subtitle: this is a great post
-layout:post
-categories: [test,blog]
-tags: [tag1, tag2]
----
+
 
 
 ## Where are you going?
