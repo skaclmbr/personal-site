@@ -27,7 +27,3 @@ Yet, I am still stressed. I have two kids, who will start college soon.
 My ambitions are trite. I want to be a leader. I'm cautious. I'm failing. 
 
 My favorite book is Cosmos.
-
-
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.

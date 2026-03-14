@@ -1,6 +1,7 @@
 ---
 layout: cv
 title: Curriculum Vitae
+published: False
 ---
 <a href="#work-experience" class="btn btn-outline-secondary>Work Experience</a>
 [Projects](#projects){: .btn}

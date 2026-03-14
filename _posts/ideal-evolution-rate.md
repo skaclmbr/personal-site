@@ -1,13 +1,9 @@
 ---
 layout: post
 published: false
-title: ideal-evolution-rate.md
----
----
-title:draft blog post
+title: Ideal Evolution Rate
 subtitle: the tech/innovation whirlwind
-layout:post
-categories: [blog]
+published: False
 tags: [technology, zen]
 ---
 
