@@ -13,12 +13,11 @@ order: 6
 </div>
 
 # Mindfulness
-- [Headspace](https://www.headspace.com) - Meditation that speaks to you. Or not.
 - [Reggie Watts](https://www.youtube.com/watch?v=BdHK_r9RXTc) - The best TED Talk ever.
 
 # Social
 - [The Righteous Mind](https://righteousmind.com/) - How we think in the world.
-- [Freedom Birders](https://freedombirders.org/) - Just BIRD.
+<!-- - [Freedom Birders](https://freedombirders.org/) - Just BIRD. -->
 
 # Conservation
 - [US North American Bird Conservation Intiative](https://us-nabci.org) - Birds are my jam.
